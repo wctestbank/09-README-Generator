@@ -1,11 +1,11 @@
 
 
-  ![BSD--2--Clause](https://img.shields.io/badge/license-BSD--2--Clause-brightgreen)
+  ![Unlicense](https://img.shields.io/badge/license-Unlicense-brightgreen)
   
-  # a
+  # README Generator Test
   ## Description
 
-  a
+  A project that takes user inputs and makes a README file.
   
   ## Table of Contents
   
@@ -19,29 +19,30 @@
   ## Installation
 
   ```
-  a
+  node index.js
   ```
 
   ## Usage
   
-  a
+  The applications prompts the user for inputs and once done will make a README in the dist folder.
   
   
   ## License
 
-  This project is licensed under:
-  ![BSD--2--Clause](https://img.shields.io/badge/license-BSD--2--Clause-brightgreen)
+  This project is licensed under: ![Unlicense](https://img.shields.io/badge/license-Unlicense-brightgreen)
   
 
   ## Contributing
   
-  a
+  Please make a fork of this project.
 
   ## Tests
   
-  a
+  node test
 
   ## Questions
   
-  undefined
+  Github: [https://github.com/wctestbank](https://github.com/wctestbank)
+
+  You can reach me at test@test.com for more information.
   

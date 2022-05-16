@@ -99,8 +99,34 @@ const promptUser = () => {
                     return false;
                 }
             }
-        }
+        },
         // questions
+        {
+            type: 'input',
+            name: 'github',
+            message: 'What is your github username?',
+            validate: input => {
+                if (input) {
+                    return true;
+                } else {
+                    console.log('Please enter your github!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email?',
+            validate: input => {
+                if (input) {
+                    return true;
+                } else {
+                    console.log('Please enter your email!');
+                    return false;
+                }
+            }
+        }
     ]);
 };
 
