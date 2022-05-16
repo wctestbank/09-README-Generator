@@ -29,9 +29,11 @@ function generateMarkdown(data) {
   - [Questions](#questions)
   
   ## Installation
-  
+
+  \`\`\`
   ${data.installation}
-  
+  \`\`\`
+
   ## Usage
   
   ${data.usage}
@@ -52,8 +54,6 @@ function generateMarkdown(data) {
   
   ${data.questions}
   
-
-
 `;
 }
 
