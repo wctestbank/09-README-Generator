@@ -43,6 +43,7 @@ https://watch.screencastify.com/v/x5IcOBdRW92v0hIU4HEo
 ![Demo Image](./assets/images/demo.png)
 
 ## Sample README
-```
-Included in dist folder [Sample README](./dist/README.md)
-```
+
+Included in dist folder 
+
+[Sample README](./dist/README.md)
