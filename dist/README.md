@@ -24,7 +24,7 @@
 
   ## Usage
   
-  The applications prompts the user for inputs and once done will make a README in the dist folder.
+  The application prompts the user for inputs and once done will make a README in the dist folder.
   
   
   ## License
@@ -34,7 +34,7 @@
 
   ## Contributing
   
-  Please make a fork of this project.
+  Please make a fork.
 
   ## Tests
   

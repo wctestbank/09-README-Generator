@@ -1,5 +1,11 @@
 # 09-README-Generator
 
+## Description
+
+```
+Submission of Module 9 challenge README GENERATOR
+```
+
 ## User Story
 
 ```
@@ -30,11 +36,13 @@ THEN I am taken to the corresponding section of the README
 
 ## Walkthrough
 
+https://watch.screencastify.com/v/x5IcOBdRW92v0hIU4HEo
 
 ## Screenshot
 
+![Demo Image](./assets/images/demo.png)
 
 ## Sample README
 ```
-Included in dist folder
+Included in dist folder [Sample README](./dist/README.md)
 ```

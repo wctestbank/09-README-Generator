@@ -142,7 +142,7 @@ function writeToFile(fileName, data) {
 function init() {
     promptUser()
         .then(data => {
-            console.log(data);
+            //console.log(data);
             return generateMarkdown(data);
         })
         .then(markdown => {
